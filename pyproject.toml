@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "emoji_list"
+name = "emojis_list"
 version = "0.1.0"
 description = ""
 authors = ["Lorenzo <lorenzo@coacci.it>"]

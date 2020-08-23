@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="emoji_list",
+    name="emojis_list",
     version="0.1",
     author="Lorenzo Coacci",
     author_email="lorenzo@coacci.com",
