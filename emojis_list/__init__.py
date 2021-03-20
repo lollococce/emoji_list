@@ -1,14 +1,14 @@
 # import submodules you want to install
 
-from .emoji_list import *
+from .emojis import EMOJIS
 
 __docformat__ = "restructuredtext"
 
 
 # module level doc-string
 __doc__ = """
-emoji_list - a package with all updated emoji list
-=====================================================================
+emojis - a package with all emojis in a list
+============================================
 
-**emoji_list** is a Python package providing all updated emoji list
+**emojis** is a Python package providing all emojis in a list
 """
